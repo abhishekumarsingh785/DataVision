@@ -2,7 +2,7 @@
 
 Welcome to **DataVision**, an intuitive and powerful application designed to help businesses unlock the full potential of their data. Whether you're a seasoned data expert or a business leader, DataVision simplifies querying, visualizing, and forecasting data, empowering smarter decisions and strategic growth.
 
-![Demo Video](https://drive.google.com/file/d/1zB0wvKRHI3LcY9Aza7RhdfG4jGsV87z0/view?usp=sharing)
+[Demo Video](https://drive.google.com/file/d/1zB0wvKRHI3LcY9Aza7RhdfG4jGsV87z0/view?usp=sharing)
 
 ---
 
