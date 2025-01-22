@@ -1,4 +1,4 @@
-# DataVision: Effortless Data Insights and Predictions 📊✨
+# DataVision: Agentic RAG-based LLM Model for Effortless Data Insights and Predictions 📊✨
 
 Welcome to **DataVision**, an intuitive and powerful application designed to help businesses unlock the full potential of their data. Whether you're a seasoned data expert or a business leader, DataVision simplifies querying, visualizing, and forecasting data, empowering smarter decisions and strategic growth.
 
